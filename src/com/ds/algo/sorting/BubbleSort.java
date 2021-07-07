@@ -19,15 +19,15 @@ public class BubbleSort {
 		int count = 0;
 
 		System.out.println("Original Array :-");
-		//print original array
+		// print original array
 		for (int i : array) {
 			System.out.println(i);
 		}
 
 		for (int i = 0; i < array.length; i++) {
 			for (int y = i + 1; y < array.length; y++) {
-				
-				//swap the elements after comparison
+
+				// swap the elements after comparison
 				if (array[i] > array[y]) {
 					int temp = array[i];
 					array[i] = array[y];
@@ -40,13 +40,13 @@ public class BubbleSort {
 				count++;
 			}
 		}
-		
+
 		System.out.println("Sorted Array :-");
-		//print sorted array
+		// print sorted array
 		for (int i : array) {
 			System.out.println(i);
 		}
-		
+
 		System.out.println("Number Of Iterations:" + count);
 	}
 
