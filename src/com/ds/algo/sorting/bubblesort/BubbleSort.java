@@ -1,4 +1,4 @@
-package com.ds.algo.sorting;
+package com.ds.algo.sorting.bubblesort;
 
 /**
  * This is an example class for Bubble Sort
