@@ -12,5 +12,6 @@ Please fork the repository if you want to contribute.
 <li>Sorting Algorithms
 <ul>
 <li> <a href = "https://github.com/himanshugupta0007/Data-Structure-And-Algorithms-Java/tree/main/src/com/ds/algo/sorting/bubblesort">Bubble Sort<a></li>
+<li> <a href = "https://github.com/himanshugupta0007/Data-Structure-And-Algorithms-Java/tree/main/src/com/ds/algo/sorting/selectionsort">Selection Sort<a></li>
 </ul>
 </ul>
