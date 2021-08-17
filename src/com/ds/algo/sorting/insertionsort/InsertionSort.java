@@ -24,7 +24,7 @@ public class InsertionSort {
 		// Insertion Sort Algorithm Begins
 		for (int i = 1; i < array.length; i++) {
 
-			// save the first element assuming first element is sorted
+			// save the first key
 			int key = array[i];
 			int insertStep;
 			// Compare key with each element on the left of it until an element smaller than
