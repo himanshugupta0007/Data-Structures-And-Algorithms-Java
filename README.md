@@ -4,7 +4,7 @@ This repository contains the Java-based implementation of Data Structures and Al
 
 Each algorithm and data structure has its separate README file, explaining the Data Structures and Algorithms theory and its implementation.
 
-Please fork the repository if you want to contribute.
+Please fork the repository if you want to contribute or if you want to improve the code and algorithms.
 
 ## Content
 
